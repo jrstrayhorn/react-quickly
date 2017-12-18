@@ -1,0 +1,2 @@
+//ReactDOM.render(<Clock />, document.getElementById('content'));
+ReactDOM.render(React.createElement(Link, { text: "Buy My Book", href: "https://www.google.com" }), document.getElementById('content'));
